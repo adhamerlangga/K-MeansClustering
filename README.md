@@ -1,2 +1,2 @@
 # Clustering
- K-Means Clustering from Scratch
+ Kmeans Clustering from scratch in modelling process
